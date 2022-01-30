@@ -19,5 +19,3 @@
 ---
 ![l3oatkunGG's github stats](https://github-readme-stats.vercel.app/api?username=l3oatkunGG&show_icons=true&theme=gruvbox_light&hide_border=true)
 ![l3oatkunGG's github streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=l3oatkunGG&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l3oatkunGG)
-
