@@ -19,4 +19,4 @@
 ---
 ![l3oatkunGG's github stats](https://github-readme-stats.vercel.app/api?username=l3oatkunGG&show_icons=true&theme=gruvbox_light&hide_border=true)
 ![l3oatkunGG's github streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=l3oatkunGG&hide_border=true)
-![l3oatkunGG's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=l3oatkunGG&v=2)
+<img src="https://wakatime.com/share/@l3oatkunGG/d12bcac9-67d4-4b01-b7cb-76d399a1ecad.svg" width="500"/>
