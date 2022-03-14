@@ -6,7 +6,6 @@
 
 ---
 - 🇹🇭 I live in Chiang Mai, Thailand
-- 📖 Currently, learning Computer Engineer
 - 💻 I like to playing games and coding
 - 🗾 I'm a big fan of anime
 - 🌊 I like deep learning
