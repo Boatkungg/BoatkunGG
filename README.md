@@ -1,6 +1,6 @@
 ### Hello 👋, I'm l3oatkunGG (B_K)
 
-### I do everything except for studying
+### I do everything except studying
 
 ## I'm a student at [Yupparaj Wittayalai School](https://www.yupparaj.ac.th/)
 
