@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=l3oatkungg&theme=dark&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=l3oatkungg&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3oatkungg&theme=dark&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=l3oatkungg&theme=dark&count_private=true" width="400px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=l3oatkungg&theme=dark" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3oatkungg&theme=dark&count_private=true" width="400px"/>
 </div>
