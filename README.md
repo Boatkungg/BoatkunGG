@@ -26,10 +26,10 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=l3oatkungg&theme=dark&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=l3oatkungg&theme=dark" />
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=l3oatkungg&theme=dark" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=l3oatkungg&theme=dark&count_private=true" />
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3oatkungg&theme=dark&count_private=true&layout=compact" width="400px"/>
