@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </div>
 
 ---
@@ -35,5 +36,5 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=l3oatkungg&theme=dark&count_private=true" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3oatkungg&theme=dark&count_private=true&layout=compact" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3oatkungg&theme=dark&count_private=false&layout=compact&size_weight=0.5&count_weight=0.5&hide=javascript" width="400px"/>
 </div>
