@@ -27,14 +27,14 @@
 ---
 
 <div align="center">
-    <img src="https://wakatime.com/share/@l3oatkunGG/8ad96588-a7dc-4237-9a80-715821338a6d.png" />
+    <img src="https://wakatime.com/share/@BoatkunGG/8ad96588-a7dc-4237-9a80-715821338a6d.png" />
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=l3oatkungg&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boatkungg&theme=dark" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=l3oatkungg&theme=dark&count_private=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Boatkungg&theme=dark&count_private=true" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3oatkungg&theme=dark&count_private=false&layout=compact&size_weight=0.5&count_weight=0.5&hide=javascript" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boatkungg&theme=dark&count_private=false&layout=compact&size_weight=0.5&count_weight=0.5&hide=javascript" width="400px"/>
 </div>
