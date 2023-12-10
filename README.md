@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-    <img src="https://wakatime.com/share/@l3oatkunGG/8ad96588-a7dc-4237-9a80-715821338a6d.png" />
+    <img src="https://wakatime.com/share/@BoatkunGG/8ad96588-a7dc-4237-9a80-715821338a6d.png" />
 </div>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boatkungg&theme=dark" />
