@@ -1,7 +1,5 @@
-<p align="center" title="This is not me">
-    <a href="https://www.youtube.com/@virtual_kaf">
-        <img src="assests/kaf.png" />
-    </a>
+<p align="center" title="That's me in the morning">
+    <img src="assests/my_morning.png" />
 </p>
 <h3 align="center">My name? It's Boat</h3>
 
@@ -17,6 +15,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
