@@ -35,5 +35,5 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Boatkungg&theme=dark&count_private=true" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boatkungg&theme=dark&count_private=false&layout=compact&size_weight=0.5&count_weight=0.5&hide=javascript" width="400px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boatkungg&theme=dark&count_private=false&layout=compact&size_weight=0.3&count_weight=0.7&hide=javascript" width="400px"/>
 </div>
