@@ -1,5 +1,5 @@
 <p align="center" title="That's me in the morning">
-    <img src="assests/my_morning.png" />
+    <img src="assests/my_morning.png" style="width: 400px" />
 </p>
 <h3 align="center">My name? It's Boat</h3>
 
@@ -35,5 +35,5 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Boatkungg&theme=dark&count_private=true" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boatkungg&theme=dark&count_private=false&layout=compact&size_weight=0.3&count_weight=0.7&hide=javascript" width="400px"/>
+    <img src="https://readme-stats-boatkunggs-projects.vercel.app/api/top-langs/?username=Boatkungg&theme=dark&count_private=true&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=readme-stats&&langs_count=10" style="width: 400px"/>
 </div>
